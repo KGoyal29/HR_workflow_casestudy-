@@ -143,5 +143,3 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 Keshav Goyal
-
-Give it a star on GitHub ⭐
